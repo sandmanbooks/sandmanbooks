@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sandmanbooks
-- 👀 I’m the owner of a  large independent bookstore in Southwest Florida name Sandman Books
+- 👀 I’m the owner of a  large independent bookstore in Southwest Florida named Sandman Books
 - 🌱 I’m currently learning to write a program for book trade-ins that integrates with our custom book POS system. Novice but learning
 - 💞️ I’m looking to collaborate on other bookstore related projects
 - 📫 How to reach me <https://www.sandmanbooks.com/> or <https://www.sandmanbooks.com/contact>
